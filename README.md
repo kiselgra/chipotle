@@ -13,7 +13,7 @@ Additionally, the example code requires the following libraries to run properly:
 
 
 ## Recommendation
-Due to long compilation times with SBCL, we recommend Clozure-CL for chiptotle.
+Due to long compilation times with SBCL, we recommend Clozure-CL for Chipotle.
 To do so, configure and reinstall C-Mera with the following flag: "--with-ccl".
 
 ## Test-Run & Installation
